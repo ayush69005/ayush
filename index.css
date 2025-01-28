@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/10012/10012487.png');
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 10px double black;
+}
+main{
+    margin-left:2cm;
+}
+footer{
+    margin-left: 2cm;
+}
