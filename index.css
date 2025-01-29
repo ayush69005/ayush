@@ -1,17 +1,26 @@
-header{
+div{
+    padding: 8px;
+    width: 80px;
+    height: 40px;
+    border: 10px solid lightgrey;
+    border-radius: 10%;
+    background-color: lightgray;
     text-align: center;
+    
+    margin-left: 1cm;
+    font-size: 8px;
+}
+pre{
+    margin-left: 3cm;
 }
 body{
     background-color: lightblue;
-    background-image: url('https://cdn-icons-png.flaticon.com/512/10012/10012487.png');
-    background-blend-mode: overlay;
-    background-repeat: no-repeat;
-    background-position: center;
-    border: 10px double black;
 }
-main{
-    margin-left:2cm;
+header{
+   background-color: brown;
 }
-footer{
-    margin-left: 2cm;
+a{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
 }
