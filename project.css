@@ -2,6 +2,8 @@ header{
     text-align: center;
 }
 body{
+    margin: 0;
+    padding: 0;
     background-color: lightblue;
     background-image: url('https://cdn-icons-png.flaticon.com/512/10012/10012487.png');
     background-blend-mode: overlay;
