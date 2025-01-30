@@ -12,19 +12,21 @@ header {
     height: 80px;
     display: flex;
     justify-content: space-between; 
-    align-items: center;
+    align-items: center; /*mak item in center up side down*/
     padding: 0 50px;
     
 
 }
 
+
+
 nav ul li {
-    display: inline;
+    display: inline;/* put item in a line */
 }
 
 nav ul li a {
     color: aqua;
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 10px 15px;  /*space between items */
 
 }
