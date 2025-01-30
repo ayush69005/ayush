@@ -5,6 +5,7 @@ body{
     font-family:  Arial, sans-serif;
     color:Black;
     background-image: url('background.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
