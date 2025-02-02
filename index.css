@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family:  Arial, sans-serif;
+    font-family:  'Times New Roman';
     color:Black;
     background-image: url('background.jpg');
     /* background-repeat: no-repeat; */
