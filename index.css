@@ -1,41 +1,9 @@
+.container{
+    align-items: end;
+    position: fixed;
+    bottom: 0;
+}
 body{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    font-family:  'Times New Roman';
-    color:Black;
-    background-image: url('background.jpg');
-    /* background-repeat: no-repeat; */
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    display: flex;
-}
-
-header{
-    background-color: Black;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-
-}
-li{
-    display: inline;
-
-}
-a{
-    color: white;
-    padding: 15px 15px;
-    text-decoration: none;
-}
-h1{
-    margin-left: 2cm;
-    color: white;
-
-}
-i{
-    color: white;
+    background-color: aqua;
+    overflow-y: scroll;
 }
