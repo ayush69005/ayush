@@ -1,9 +1,29 @@
-.container{
-    align-items: end;
-    position: fixed;
-    bottom: 0;
+*{
+    box-sizing: border-box;
 }
+
 body{
-    background-color: aqua;
-    overflow-y: hidden;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    margin-left: center;
+
 }
+
+.container{
+    display: flex;
+    width: 90vw;
+    
+}
+
+.panel{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
